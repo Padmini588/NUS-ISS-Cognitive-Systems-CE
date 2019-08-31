@@ -40,5 +40,8 @@ This project proposes and implements a cognitive chat bot system that proposes a
 ## SECTION 7 : MISCELLANEOUS
 Dialogflow.zip
 Project_code.zip
+---
+Downloadable link for Project Video
+`<Video Download>` : <https://drive.google.com/file/d/1htAehun8cSHfSUIJ91mKY9gBikEmGsYb/view?usp=sharing>
 
 ---
