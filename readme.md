@@ -5,7 +5,7 @@
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
 
-![applogo](https://www.cleanpng.com/png-scalable-vector-graphics-mobile-phones-computer-ic-6707498/preview.html)
+![applogo](https://github.com/RamdasKrishnakumar/NUS-ISS-Cognitive-Systems-CE/blob/master/Project%20Video/logo.png)
 
 Tourism is one of the major sources of entertainment during all times. Singapore’s economy receives a major contribution from the tourism industry. According to the facts stated by the Singapore tourism board, it is the fifth most visited place in the world and second in Asia-pacific. Additionally, there were about 18.5 million visitors in 2018 from which it can be inferred that there has been an increase in the count by 6.7 percent since 2017. Most of the Tourist visits are limited to some popular region like Singapore Safar, Marina Bay Sands, Gardens By The Bay Sands.  
 
@@ -24,22 +24,21 @@ This project proposes and implements a cognitive chat bot system that proposes a
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![chatbot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://www.youtube.com/watch?v=l7sQf0Q8VAA "yellow_pages_bot")
+[![chatbot](https://github.com/RamdasKrishnakumar/NUS-ISS-Cognitive-Systems-CE/blob/master/Project%20Video/Image.PNG)](https://www.youtube.com/watch?v=l7sQf0Q8VAA "yellow_pages_bot")
 
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/tree/master/UserGuide>
+`<Github File Link>` : <https://github.com/RamdasKrishnakumar/NUS-ISS-Cognitive-Systems-CE/blob/master/User%20Guide/User%20guide.pdf>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/blob/master/Report>
+`<Github File Link>` : <https://github.com/RamdasKrishnakumar/NUS-ISS-Cognitive-Systems-CE/blob/master/Project%20Report/Project%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 Dialogflow.zip
-
-CG_PROJECT.zip
+Project_code.zip
 
 ---
